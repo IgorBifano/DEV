@@ -4,7 +4,7 @@
 
 > Trilha Explorer
 
-Projeto construído com o envento Next Level Week da RocketSeat.
+Projeto construído com o evento Next Level Week da RocketSeat.
 
 Aprendendo a codar!
 
